@@ -1,4 +1,5 @@
 ﻿using System;
+using Pilha.Metodos;
 
 namespace Pilha
 {
@@ -14,6 +15,9 @@ namespace Pilha
 
             Console.WriteLine(Pilha.UnStack());
             Console.WriteLine(Pilha.UnStack());
+            Console.WriteLine(Pilha.UnStack());
+
+            //Linha abaixo é um exemplo criando exceção
             Console.WriteLine(Pilha.UnStack());
         }
     }
