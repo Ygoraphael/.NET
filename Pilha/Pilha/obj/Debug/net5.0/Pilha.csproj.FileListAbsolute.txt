@@ -1,0 +1,16 @@
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.csprojAssemblyReference.cache
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.AssemblyInfoInputs.cache
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.AssemblyInfo.cs
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.csproj.CoreCompileInputs.cache
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\bin\Debug\net5.0\Pilha.exe
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\bin\Debug\net5.0\Pilha.deps.json
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\bin\Debug\net5.0\Pilha.runtimeconfig.json
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\bin\Debug\net5.0\Pilha.runtimeconfig.dev.json
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\bin\Debug\net5.0\Pilha.dll
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\bin\Debug\net5.0\ref\Pilha.dll
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\bin\Debug\net5.0\Pilha.pdb
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.dll
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\ref\Pilha.dll
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.pdb
+C:\workspace\DIO.NET\.NET\Pilha\Pilha\obj\Debug\net5.0\Pilha.genruntimeconfig.cache
